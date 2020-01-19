@@ -1,0 +1,5 @@
+{{ $img := $.Page.Resources.GetMatch (.Get 0)}}
+<figure>
+  <img class="lazyload" data-action="zoom" src="{{ $img.RelPermalink }}" alt="{{ .Get 1 }}" />
+  <figcaption>{{ .Get 1 }}</figcaption>
+</figure>
