@@ -11,7 +11,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm"]
   footer = '🌲 Please consider the environment before printing this website'
 
 [params.social]
-  email = "hello@yannickschutz.com"
+  email = "yannick@tylucie.fr"
 
 [params.fathom]
   host = "logs.vadrouilles.co"
