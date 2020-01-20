@@ -20,4 +20,4 @@ It is time to turn the wood oven on and serve yourself a nice drink to relax.
 ## Inspiration
 
 - [chalkroad.co.uk](https://chalkroad.co.uk)
-- [edificeny.com](https://edificency.com)
+- [edificeny.com](https://edificeny.com)
