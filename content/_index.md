@@ -6,7 +6,7 @@ resources:
 - src: "*.jpg"
 ---
 
-{{< img "garden.jpg" "where traffic jams never happen" >}}
+{{< img src="garden.jpg" caption="where traffic jams never happen" >}}
 
 # Micro Lucie
 
