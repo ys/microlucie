@@ -3,19 +3,13 @@
 
 name = "term"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
+licenselink = "https://github.com/ys/term/blob/master/LICENSE.md"
 description = ""
-homepage = "http://example.com/"
+homepage = "http://yannickschutz.com/"
 tags = []
 features = []
-min_version = "0.30.2"
+min_version = "0.62.2"
 
 [author]
-  name = ""
-  homepage = ""
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Yannick Schutz"
+  homepage = "https://yannickschutz.com"

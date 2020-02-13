@@ -7,10 +7,11 @@ canonifyURLs = false
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
-  footer = '🌲 Please consider the environment before printing this website'
+  footer = '🌲 48°24’41.2”N 3°46’15.2”W - '
 
 [params.social]
   email = "yannick@tylucie.fr"
+  domain = "tylucie.fr"
 
 [params.fathom]
   host = "logs.vadrouilles.co"
@@ -18,3 +19,4 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [permalinks]
   posts = "/:slug"
+  pages = "/:slug"

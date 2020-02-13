@@ -127,6 +127,9 @@ hr {
   }
 }
 
+.logo svg {
+  @apply w-40 h-40 fill-current
+}
 
 // Expand Hugo templates
 
